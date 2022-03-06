@@ -32,4 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdy24&layout=compact&hide=html" alt="rdy24" /></p>
 
+<br />
+<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdy24&show_icons=true" alt="rdy24" /></p>
