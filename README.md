@@ -5,7 +5,6 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in indonesia
-* 🧠  I'm learning Flutter
 
 ### Skills
 
