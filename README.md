@@ -50,10 +50,10 @@ Full Stack Developer
 
 ## Socials
 
-<a href="https://www.facebook.com/profile.php?id=100008851968955" target="_blank" rel="noreferrer"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;</a> 
-<a href="http://www.instagram.com/rdyzar.24" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;</a> 
-<a href="https://www.linkedin.com/in/raflizar-deswandi-yahya-643533228" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;&nbsp;</a> 
-<a href="https://www.twitter.com/rdy24_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />&nbsp;&nbsp;</a>
+<a href="https://www.facebook.com/profile.php?id=100008851968955" target="_blank" rel="noreferrer"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="http://www.instagram.com/rdyzar.24" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raflizar-deswandi-yahya-643533228" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.twitter.com/rdy24_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 
 ### Badges
 
